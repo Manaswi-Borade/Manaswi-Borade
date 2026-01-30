@@ -1,6 +1,6 @@
 # Hi, I'm Manaswi Borade
 
-## 🧑‍💻 About Me
+## About Me
 I'm a student and aspiring Full-Stack Web Developer.
 
 🔭 I’m currently working on projects using:

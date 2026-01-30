@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manaswi Borade
+# Hi, I'm Manaswi Borade
 
 ## 🧑‍💻 About Me
 I'm a student and aspiring Full-Stack Web Developer.
@@ -8,8 +8,6 @@ I'm a student and aspiring Full-Stack Web Developer.
 - React
 - Node.js / Express
 - MongoDB
-
-💡 I love building **real-world projects** and learning new tech.
 
 📫 Connect with me:
 - GitHub: https://github.com/Manaswi-Borade

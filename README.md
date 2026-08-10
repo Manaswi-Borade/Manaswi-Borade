@@ -1,17 +1,30 @@
-# Hi, I'm Manaswi Borade
+# Hi, I'm Manaswi Borade 👋
 
-## About Me
-I'm a student and aspiring Full-Stack Web Developer.
+### Final-Year IT Engineering Student | C++ | DSA | Full-Stack Development
 
-🔭 I’m currently working on projects using:
-- HTML, CSS, JavaScript
-- React
-- Node.js / Express
-- MongoDB
+I'm interested in **Data Structures & Algorithms, problem solving, and full-stack development**.  
+I enjoy building practical projects and learning new technologies.
 
-📫 Connect with me:
-- GitHub: https://github.com/Manaswi-Borade
-- LinkedIn: https://www.linkedin.com/in/manaswi-borade-b41607317/
+### 🛠️ Skills
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manaswi-Borade&show_icons=true&theme=radical)
+**Languages:** C++, Python, JavaScript, SQL  
+**DSA:** Graphs, BFS, DFS, Dijkstra, Prim, Kruskal, DSU, Priority Queue  
+**Web:** React.js, Node.js, Express.js, MongoDB, REST APIs  
+**Tools:** Git, GitHub, VS Code, Postman, Figma
+
+### 🚀 Featured Projects
+
+**Smart Logistics Optimizer**  
+C++17 project implementing graph algorithms, shortest-path optimization, MST, DSU, and priority-based delivery scheduling.
+
+**AgroLink – Farmer Marketplace**  
+MERN-stack application with React, Node.js, Express, and MongoDB.
+
+### 💼 Experience
+
+**Full Stack Developer Intern — Sumago Infotech**  
+Worked with React.js, Node.js, Express.js, MongoDB and REST APIs.
+
+### 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/manaswi-borade-b41607317/) • [GitHub](https://github.com/Manaswi-Borade)
